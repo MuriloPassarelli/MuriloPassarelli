@@ -10,9 +10,9 @@
 
 ### About me
 
-I am a 4th-semester Computer Science student at Centro Universitário FEI.
-Always striving to learn more about software development and new technologies!
-Currently, I am a member of the Software Team at RoboFEI@Home, a RoboCup@Home league team focused on advancing service robot technologies.
+<p>I am a 4th-semester Computer Science student at Centro Universitário FEI.</p>
+<p>Always striving to learn more about software development and new technologies!</p>
+<p>Currently, I am a member of the Software Team at RoboFEI@Home, a RoboCup@Home league team focused on advancing service robot technologies.</p>
 
 ---
 
