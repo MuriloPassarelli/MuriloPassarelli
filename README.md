@@ -4,11 +4,11 @@
 
 ---
 
-<h1 align="center">Hello! I'm Murilo!</h1>
+<h1 align="center">Hello! I am Murilo!</h1>
 
 ---
 
-### About me
+### 🧑🏻 About me
 
 <p>I am a 4th-semester Computer Science student at Centro Universitário FEI.</p>
 <p>Always striving to learn more about software development and new technologies!</p>
@@ -16,7 +16,7 @@
 
 ---
 
-### Technologies 
+### 🧑🏻‍💻 Technologies 
 
 <div>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -33,7 +33,7 @@
 
 ---
 
-### Contact
+### 📱 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/murilo-passarelli-75480a335/" target="_blank">
