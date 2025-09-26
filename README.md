@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">Hello! I am Murilo!</h1>
+### Hello! I am Murilo!
 
 ---
 
