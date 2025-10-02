@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="#" />
-</div>
-
-
 # Hello! I am Murilo!
 
 ---
@@ -11,7 +6,7 @@
 
 <p>I am a 4th-semester Computer Science student at Centro Universitário FEI.</p>
 <p>Always striving to learn more about software development and new technologies!</p>
-<p>Currently, I am a member of the Software Team at RoboFEI@Home, a RoboCup@Home league team focused on advancing service robot technologies.</p>
+<p>Currently, i am part of the RoboFEI@Home software team, which competes in the RoboCup@Home league and focuses on advancing service robot technologies.</p>
 
 ---
 
